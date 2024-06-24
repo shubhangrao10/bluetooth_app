@@ -12,9 +12,7 @@ Bluetooth is a wireless communication technology that enables the wireless trans
 
 ## App 📱 Screenshots 📸 
 
-![Screenshot](screen-1.png)
-
-![Screenshot](screen-2.png)
+![image](https://github.com/shubhangrao10/bluetooth_app/assets/69590800/3584b759-a57d-466a-b8af-ce8c1a1f34cc)
 
 
 
